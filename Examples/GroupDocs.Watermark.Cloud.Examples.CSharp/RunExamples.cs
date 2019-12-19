@@ -1,5 +1,7 @@
 ﻿using System;
 using GroupDocs.Watermark.Cloud.Examples.CSharp.InfoOperations;
+using GroupDocs.Watermark.Cloud.Examples.CSharp.WatermarkOperations;
+using GroupDocs.Watermark.Cloud.Examples.CSharp.WatermarkOperations.AddWatermarks;
 
 namespace GroupDocs.Watermark.Cloud.Examples.CSharp
 {
@@ -21,55 +23,27 @@ namespace GroupDocs.Watermark.Cloud.Examples.CSharp
 
             #region Info operations
 
-            //GetSupportedFileTypes.Run();
+            GetSupportedFileTypes.Run();
 
-            GetDocumentInformation.Run();
-
-            #endregion
-
-            #region Parse operations
-
-            #region Parse by template
-
-            //ParseByTemplateStoredInUserStorage.Run();
-
-            //ParseByTemplateDefinedAsAnObject.Run();
-
-            //ParseByTemplateOfADocumentInsideAContainer.Run();
+            //GetDocumentInformation.Run();
 
             #endregion
 
-            #region Extract text
+            #region Watermark operations
 
-            //ExtractTextFromTheWholeDocument.Run();
+            #region Add operations
 
-            //ExtractTextByAPageNumberRange.Run();
+            //AddTextWatermarks.Run();
 
-            //ExtractFormattedText.Run();
-
-            //ExtractTextFromADocumentInsideAContainer.Run();
+            //AddImageWatermarks.Run();
 
             #endregion
 
-            #region Extract images
+            //RemoveWatermarks.Run();
 
-            //ExtractImagesFromTheWholeDocument.Run();
+            //ReplaceWatermarks.Run();
 
-            //ExtractImagesByAPageNumberRange.Run();
-
-            //ExtractImagesFromADocumentInsideAContainer.Run();
-
-            #endregion
-
-            #endregion
-
-            #region Template operations
-
-            //CreateOrUpdateTemplate.Run();
-
-            //GetTemplate.Run();
-
-            //DeleteTemplate.Run();
+            //SearchWatermarks.Run();
 
             #endregion
 
