@@ -33,8 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="GroupDocs.Watermark.Cloud.Sdk, Version=19.4.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\GroupDocs.Watermark-Cloud.19.4.0-alpha-20191210020354\lib\net20\GroupDocs.Watermark.Cloud.Sdk.dll</HintPath>
+    <Reference Include="GroupDocs.Watermark.Cloud.Sdk, Version=19.12.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\GroupDocs.Watermark-Cloud.19.12.0\lib\net20\GroupDocs.Watermark.Cloud.Sdk.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net20\Newtonsoft.Json.dll</HintPath>
