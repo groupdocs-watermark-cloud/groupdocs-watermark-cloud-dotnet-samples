@@ -28,17 +28,9 @@ The package contains C# examples. Follow the given steps to proceed with project
 
 In other case, it is possible that Visual Studio is unable to automatically add APIs references due to Visual Studio version differences. In this case, please add references of missing APIs manually.
 
-For more details, visit  [Getting Started](https://docs.groupdocs.cloud/display/watermarkcloud/Getting+Started).
+For more details, visit  [Getting Started](https://docs.groupdocs.cloud/watermark/getting-started/).
 
 ## Licensing
 All GroupDocs.Watermark Cloud SDKs are licensed under [MIT License](LICENSE).
 
-## Resources
-+ [**Website**](https://www.groupdocs.cloud)
-+ [**Product Home**](https://products.groupdocs.cloud/watermark)
-+ [**Documentation**](https://docs.groupdocs.cloud/display/watermarkcloud/Home)
-+ [**Free Support Forum**](https://forum.groupdocs.cloud/c/watermark)
-+ [**Blog**](https://blog.groupdocs.cloud/category/watermark)
-
-## Contact Us
-Your feedback is very important to us. Please feel free to contact us using our [Support Forums](https://forum.groupdocs.cloud/c/watermark).
+[Home](https://www.groupdocs.cloud/) | [Product Page](https://products.groupdocs.cloud/watermark/net) | [Docs](https://docs.groupdocs.cloud/watermark/) | [Demos](https://products.groupdocs.app/watermark/family) | [API Reference](https://apireference.groupdocs.cloud/watermark/) | [Source Code](https://github.com/groupdocs-watermark-cloud/groupdocs-watermark-cloud-dotnet) | [Blog](https://blog.groupdocs.cloud/category/watermark/) | [Free Support](https://forum.groupdocs.cloud/c/watermark) | [Free Trial](https://purchase.groupdocs.cloud/trial)
